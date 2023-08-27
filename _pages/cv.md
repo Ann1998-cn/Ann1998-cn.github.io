@@ -11,30 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Industrial Engineering, Shanghai Jiao Tong University, 2020
+* M.S. in Industrial Engineering, Shanghai Jiao Tong University, 2023
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2023: Research Assistant
+  * Cardinal Operational
+  * Duties included: Algorithm Development on Large Scale Unit Commitment Problem Solving of ** Power System. 
+  * Supervisor: Professor Dongdong Ge  
 
 Publications
 ======
@@ -42,7 +27,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Programs
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -53,7 +38,12 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Skills
+======
+* Python, MATLAB, SolidWorks
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Led a Volunteer Group to deliver Medical Demands and Medicines for students at SJTU during the campus lockdown due to the pandemic (March 2022-June 2022).
+* Organized annual Graduate Student Academic Star Selection of SJTU and the follow-up experience-sharing workshops.
