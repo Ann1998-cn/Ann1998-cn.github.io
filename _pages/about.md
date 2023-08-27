@@ -16,30 +16,40 @@ My general research area is constraint programming, with an emphasis on producti
 
 Research Publications
 ======
-1.[An energy-efficient collaborative strategy of maintenance planning and production scheduling for serial-parallel systems under time-of-use tariffs](https://www.sciencedirect.com/science/article/abs/pii/S0306261923001587)
-**Xiangxin An**, Guojin Si, Tangbin Xia, Dong Wang, Ershun Pan, Lifeng Xi
+1. [An energy-efficient collaborative strategy of maintenance planning and production scheduling for serial-parallel systems under time-of-use tariffs](https://www.sciencedirect.com/science/article/abs/pii/S0306261923001587).
+**Xiangxin An**, Guojin Si, Tangbin Xia, Dong Wang, Ershun Pan, Lifeng Xi.
 Applied Energy 2023, 336, 120794: 1-14. 
 
-1.[Operation and maintenance optimization for manufacturing systems with energy management](https://www.mdpi.com/1996-1073/15/19/7338/htm)
-Xiangxin An, Guojin Si, Tangbin Xia, Qinming Liu, Yaping Li, Rui Miao
+2. [Operation and maintenance optimization for manufacturing systems with energy management](https://www.mdpi.com/1996-1073/15/19/7338/htm).
+**Xiangxin An**, Guojin Si, Tangbin Xia, Qinming Liu, Yaping Li, Rui Miao.
 Energies, 2022, 15(19), 7338. 
 
-1.[Energy-conscious maintenance and production scheduling for a single machine under time-of-use tariffs](https://iopscience.iop.org/article/10.1088/1742-6596/2369/1/012097)
-Xiangxin An, Lei Cao, Guojin Si, Zhen Chen, Meimei Zheng, Jianfeng Tao, Tangbin Xia
+3. [Energy-conscious maintenance and production scheduling for a single machine under time-of-use tariffs](https://iopscience.iop.org/article/10.1088/1742-6596/2369/1/012097).
+**Xiangxin An**, Lei Cao, Guojin Si, Zhen Chen, Meimei Zheng, Jianfeng Tao, Tangbin Xia.
 Journal of Physics: Conference Series. 2022, 2369, 012097: 1-7. 
 
-1.[Efficient energy use in manufacturing systems—modeling, assessment, and management strategy](https://www.mdpi.com/1996-1073/16/3/1095/html)
-Tangbin Xia, Xiangxin An, Huaqiang Yang, Yimin Jiang, Yuhui Xu, Meimei Zheng, Ershun Pan
+4. [Efficient energy use in manufacturing systems—modeling, assessment, and management strategy](https://www.mdpi.com/1996-1073/16/3/1095/html).
+Tangbin Xia, **Xiangxin An**, Huaqiang Yang, Yimin Jiang, Yuhui Xu, Meimei Zheng, Ershun Pan.
 Energies. 2023, 16(3), 1095.
    
-1.[Joint Optimization for Product Warranty and Preventive Maintenance in Service Supply Chain](https://iopscience.iop.org/article/10.1088/1742-6596/1983/1/012113)
-Yingcui Xu, Xiangxin An, Ying Zhu, Tangbin Xia, Rui Miao
+5. [Joint Optimization for Product Warranty and Preventive Maintenance in Service Supply Chain](https://iopscience.iop.org/article/10.1088/1742-6596/1983/1/012113).
+Yingcui Xu, **Xiangxin An**, Ying Zhu, Tangbin Xia, Rui Miao.
 Journal of Physics: Conference Series. 2021, 1983, 012113: 1-8.
 
 
 Participated Programs
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+1. 
+2. Lean Control of Spare Parts Inventory in the Cigarette Factory
+3. Fault Diagnosis and Proactive Maintenance of Equipment with Coupling Failures for High Service Reliability
+
+4. Quality Assessment of Regional Advanced Manufacturing Industry
+5. Preventive Maintenance and Production Scheduling to Optimize Energy Management of Manufacturing Systems
+6. Maintenance Expert System for Shanghai Metro Line 5
+7. Decision-making for Equipment Maintenance and Prediction of Factory Energy Consumption
+8. Decision-making for Energy Optimization Control of Manufacturing Systems
+9. Design and Development of a Maintenance Platform and Expert System
+10. 
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
@@ -48,7 +58,18 @@ Participated Programs
 
 Honors and Awards
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Outstanding Graduate in Shanghai	(2023)----------------------------------------------2023.03
+SJTU Top 10 Student Merit Award (2021-2022)-------------------------------------------2022.12
+National Scholarship for Postgraduates (2021-2022)------------------------------------2022.10
+SJTU Graduate Student First-class Acedemic Scholarship (Top 30%)-------------2021.10, 2022.10
+Ruiyuan-Sequoia Talent Development Fund of SJTU---------------------------------------2021.11
+First Prize, 5th Shanghai Engineering Management Innovation Competition---------------2021.11
+Special Prize, Rising Shanghai Teen Talent in Science and Technology------------------2020.12
+Outstanding Undergraduate Graduate of SJTU (2020)-------------------------------------2020.06
+First Prize, SMC Takada Scholarship of SJTU-------------------------------------------2019.12
+Grand Prize, National Undergraduate Science and Technology Race Challenge Cup---------2019.11
+Grand Prize, The RoboMaster University Championship (2019)----------------------------2019.09
+Academic Excellence Scholarship (Second-Class) of SJTU-----------------------2017.12, 2018.12
 
 
 Create content & metadata
