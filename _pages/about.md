@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Xiangxin An ⌈安向昕⌋"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,15 +8,36 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi！I am a graduate student from Shanghai Jiao Tong University and am about to apply for a Ph.D. Program in 2024. I am now working as a research assistant at [Cardinal Operations](https://www.cardopt.com/). Previously, I received my Bachelor's and Master's degrees in Industrial Engineering from Shanghai Jiao Tong University advised by [Prof. Tangbin Xia](https://me.sjtu.edu.cn/teacher_directory1/xiatangbin.html). 
 
-A data-driven personal website
+Research Interests
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+My general research area is constraint programming, with an emphasis on production scheduling and unit commitment optimization under production and power system scenarios. I am also interested in operation research, reinforcement learning, renewable energy usage and their interplay.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Research Publications
+======
+1.[An energy-efficient collaborative strategy of maintenance planning and production scheduling for serial-parallel systems under time-of-use tariffs](https://www.sciencedirect.com/science/article/abs/pii/S0306261923001587)
+**Xiangxin An**, Guojin Si, Tangbin Xia, Dong Wang, Ershun Pan, Lifeng Xi
+Applied Energy 2023, 336, 120794: 1-14. 
 
-Getting started
+1.[Operation and maintenance optimization for manufacturing systems with energy management](https://www.mdpi.com/1996-1073/15/19/7338/htm)
+Xiangxin An, Guojin Si, Tangbin Xia, Qinming Liu, Yaping Li, Rui Miao
+Energies, 2022, 15(19), 7338. 
+
+1.[Energy-conscious maintenance and production scheduling for a single machine under time-of-use tariffs](https://iopscience.iop.org/article/10.1088/1742-6596/2369/1/012097)
+Xiangxin An, Lei Cao, Guojin Si, Zhen Chen, Meimei Zheng, Jianfeng Tao, Tangbin Xia
+Journal of Physics: Conference Series. 2022, 2369, 012097: 1-7. 
+
+1.[Efficient energy use in manufacturing systems—modeling, assessment, and management strategy](https://www.mdpi.com/1996-1073/16/3/1095/html)
+Tangbin Xia, Xiangxin An, Huaqiang Yang, Yimin Jiang, Yuhui Xu, Meimei Zheng, Ershun Pan
+Energies. 2023, 16(3), 1095.
+   
+1.[Joint Optimization for Product Warranty and Preventive Maintenance in Service Supply Chain](https://iopscience.iop.org/article/10.1088/1742-6596/1983/1/012113)
+Yingcui Xu, Xiangxin An, Ying Zhu, Tangbin Xia, Rui Miao
+Journal of Physics: Conference Series. 2021, 1983, 012113: 1-8.
+
+
+Participated Programs
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
@@ -25,9 +46,10 @@ Getting started
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
+Honors and Awards
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+
 
 Create content & metadata
 ------
