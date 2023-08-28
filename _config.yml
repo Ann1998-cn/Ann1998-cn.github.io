@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiangxin An"
+title                    : "Xiangxin An/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Xiangxin An"
 description              : &description "personal description"
-url                      : https://ann1998-cn.github.io
+url                      : https://Ann1998-cn.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ann1998-cn/academicpages.github.io"
+repository               : "Ann1998-cn/Ann1998-cn.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -184,7 +184,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  programs:
     output: true
     permalink: /:collection/:path/
 
